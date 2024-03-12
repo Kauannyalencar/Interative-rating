@@ -1,0 +1,23 @@
+@media (max-width:350px) {
+    main{
+        padding: 10px;
+    }
+   
+    .container{
+        width: 75%;
+    }
+
+    .btns{
+        max-width: 275px;
+    }
+
+    .thanks-mensage{
+        padding: 10px;
+    }
+
+    .thanks-content{
+        width: 300px;
+    }
+
+}
+
